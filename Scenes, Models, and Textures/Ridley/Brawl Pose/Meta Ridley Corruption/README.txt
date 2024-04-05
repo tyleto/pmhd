@@ -1,0 +1,1 @@
+Fair warning; this scene, at least for me, was pretty unstable when doing nearly anything with it. It'll probably crash a few times while trying to render, but it'll do it eventually.
